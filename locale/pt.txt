@@ -1,0 +1,19 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 34
+
+## Media
+
+### Title
+panorama_6F81CBC1_65DE_68AF_4195_7AAF5673DC0B.label = Blomount interior 360 01
+panorama_6F837EA7_65DE_28F3_41A2_A8C449A28652.label = Blomount interior 360 02
+panorama_6F8382D5_65DE_F857_41A0_9DCFF9E9F567.label = Blomount interior 360 05
+panorama_6F83D0A4_65DE_D8F5_41CB_96DC860C4936.label = Blomount interior 360 03
+panorama_6F83F4DA_65DE_D85D_41CE_01D70B119EAC.label = Blomount interior 360 06
+panorama_6F83F7A2_65DE_38ED_41CE_8487026F5992.label = Blomount interior 360 07
+panorama_6FB1642F_65DE_3FF2_41D2_A0F7A23F8D03.label = Blaumont interior 360 08
